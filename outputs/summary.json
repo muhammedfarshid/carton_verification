@@ -1,0 +1,142 @@
+[
+ {
+  "img": "img_01",
+  "product": "biopron_box",
+  "pred_product": "biopron_box",
+  "expected": 30,
+  "count": 30,
+  "status": "PASS",
+  "per_class": {
+   "biopron_box": 30
+  },
+  "sam2_check": -1,
+  "review": false,
+  "sec": 1.409
+ },
+ {
+  "img": "img_02",
+  "product": "vovemac_plus_box",
+  "pred_product": "vovemac_plus_box",
+  "expected": 20,
+  "count": 20,
+  "status": "PASS",
+  "per_class": {
+   "vovemac_plus_box": 20
+  },
+  "sam2_check": -1,
+  "review": false,
+  "sec": 1.243
+ },
+ {
+  "img": "img_03",
+  "product": "biopron_box",
+  "pred_product": "biopron_box",
+  "expected": 30,
+  "count": 30,
+  "status": "PASS",
+  "per_class": {
+   "biopron_box": 30
+  },
+  "sam2_check": -1,
+  "review": false,
+  "sec": 2.379
+ },
+ {
+  "img": "img_04",
+  "product": "zebra_ribbon_green_blister",
+  "pred_product": "zebra_ribbon_green_blister",
+  "expected": 20,
+  "count": 20,
+  "status": "PASS",
+  "per_class": {
+   "zebra_ribbon_green_blister": 20
+  },
+  "sam2_check": -1,
+  "review": false,
+  "sec": 1.773
+ },
+ {
+  "img": "img_05",
+  "product": "ribbon_roll_blue",
+  "pred_product": "ribbon_roll_blue",
+  "expected": 21,
+  "count": 21,
+  "status": "PASS",
+  "per_class": {
+   "ribbon_roll_blue": 21
+  },
+  "sam2_check": -1,
+  "review": false,
+  "sec": 1.611
+ },
+ {
+  "img": "img_06",
+  "product": "label_roll_white",
+  "pred_product": "label_roll_white",
+  "expected": 16,
+  "count": 16,
+  "status": "PASS",
+  "per_class": {
+   "label_roll_white": 16
+  },
+  "sam2_check": -1,
+  "review": false,
+  "sec": 1.837
+ },
+ {
+  "img": "img_07",
+  "product": "honeywell_device_box",
+  "pred_product": "honeywell_device_box",
+  "expected": 12,
+  "count": 12,
+  "status": "PASS",
+  "per_class": {
+   "honeywell_device_box": 12
+  },
+  "sam2_check": -1,
+  "review": false,
+  "sec": 1.266
+ },
+ {
+  "img": "img_08",
+  "product": "zebra_ribbon_yellow",
+  "pred_product": "zebra_ribbon_yellow",
+  "expected": 10,
+  "count": 10,
+  "status": "PASS",
+  "per_class": {
+   "zebra_ribbon_yellow": 10
+  },
+  "sam2_check": -1,
+  "review": false,
+  "sec": 1.435
+ },
+ {
+  "img": "img_09",
+  "product": "zebra_device_box",
+  "pred_product": "zebra_device_box",
+  "expected": 12,
+  "count": 12,
+  "status": "PASS",
+  "per_class": {
+   "zebra_device_box": 12
+  },
+  "sam2_check": -1,
+  "review": false,
+  "sec": 1.13
+ },
+ {
+  "img": "img_10",
+  "product": "zebra_device_box",
+  "pred_product": "zebra_device_box",
+  "expected": 11,
+  "count": 11,
+  "status": "PASS",
+  "per_class": {
+   "zebra_device_box": 11
+  },
+  "sam2_check": -1,
+  "review": false,
+  "sec": 1.256
+ }
+]

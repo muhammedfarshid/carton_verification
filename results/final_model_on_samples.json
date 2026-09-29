@@ -1,0 +1,202 @@
+[
+ {
+  "img": "img_01",
+  "product": "biopron_box",
+  "gt": 30,
+  "count": 30,
+  "raw_dets": 30,
+  "pred_product": "biopron_box",
+  "per_class": {
+   "biopron_box": 30
+  },
+  "tp": 30,
+  "fp": 0,
+  "fn": 0,
+  "foreign_expected": 28,
+  "foreign_count": 28,
+  "foreign_per_class": {
+   "biopron_box": 28,
+   "vovemac_plus_box": 2
+  }
+ },
+ {
+  "img": "img_02",
+  "product": "vovemac_plus_box",
+  "gt": 20,
+  "count": 20,
+  "raw_dets": 20,
+  "pred_product": "vovemac_plus_box",
+  "per_class": {
+   "vovemac_plus_box": 20
+  },
+  "tp": 20,
+  "fp": 0,
+  "fn": 0,
+  "foreign_expected": 18,
+  "foreign_count": 18,
+  "foreign_per_class": {
+   "vovemac_plus_box": 18,
+   "biopron_box": 2
+  }
+ },
+ {
+  "img": "img_03",
+  "product": "biopron_box",
+  "gt": 30,
+  "count": 30,
+  "raw_dets": 30,
+  "pred_product": "biopron_box",
+  "per_class": {
+   "biopron_box": 30
+  },
+  "tp": 30,
+  "fp": 0,
+  "fn": 0,
+  "foreign_expected": 28,
+  "foreign_count": 28,
+  "foreign_per_class": {
+   "biopron_box": 28,
+   "vovemac_plus_box": 2
+  }
+ },
+ {
+  "img": "img_04",
+  "product": "zebra_ribbon_green_blister",
+  "gt": 20,
+  "count": 20,
+  "raw_dets": 20,
+  "pred_product": "zebra_ribbon_green_blister",
+  "per_class": {
+   "zebra_ribbon_green_blister": 20
+  },
+  "tp": 20,
+  "fp": 0,
+  "fn": 0,
+  "foreign_expected": 18,
+  "foreign_count": 18,
+  "foreign_per_class": {
+   "zebra_ribbon_green_blister": 18,
+   "biopron_box": 2
+  }
+ },
+ {
+  "img": "img_05",
+  "product": "ribbon_roll_blue",
+  "gt": 21,
+  "count": 21,
+  "raw_dets": 21,
+  "pred_product": "ribbon_roll_blue",
+  "per_class": {
+   "ribbon_roll_blue": 21
+  },
+  "tp": 21,
+  "fp": 0,
+  "fn": 0,
+  "foreign_expected": 19,
+  "foreign_count": 19,
+  "foreign_per_class": {
+   "ribbon_roll_blue": 19,
+   "biopron_box": 2
+  }
+ },
+ {
+  "img": "img_06",
+  "product": "label_roll_white",
+  "gt": 16,
+  "count": 16,
+  "raw_dets": 16,
+  "pred_product": "label_roll_white",
+  "per_class": {
+   "label_roll_white": 16
+  },
+  "tp": 16,
+  "fp": 0,
+  "fn": 0,
+  "foreign_expected": 14,
+  "foreign_count": 14,
+  "foreign_per_class": {
+   "label_roll_white": 14,
+   "biopron_box": 2
+  }
+ },
+ {
+  "img": "img_07",
+  "product": "honeywell_device_box",
+  "gt": 12,
+  "count": 12,
+  "raw_dets": 12,
+  "pred_product": "honeywell_device_box",
+  "per_class": {
+   "honeywell_device_box": 12
+  },
+  "tp": 12,
+  "fp": 0,
+  "fn": 0,
+  "foreign_expected": 10,
+  "foreign_count": 10,
+  "foreign_per_class": {
+   "honeywell_device_box": 10,
+   "biopron_box": 2
+  }
+ },
+ {
+  "img": "img_08",
+  "product": "zebra_ribbon_yellow",
+  "gt": 10,
+  "count": 10,
+  "raw_dets": 10,
+  "pred_product": "zebra_ribbon_yellow",
+  "per_class": {
+   "zebra_ribbon_yellow": 10
+  },
+  "tp": 10,
+  "fp": 0,
+  "fn": 0,
+  "foreign_expected": 8,
+  "foreign_count": 8,
+  "foreign_per_class": {
+   "zebra_ribbon_yellow": 8,
+   "biopron_box": 2
+  }
+ },
+ {
+  "img": "img_09",
+  "product": "zebra_device_box",
+  "gt": 12,
+  "count": 12,
+  "raw_dets": 12,
+  "pred_product": "zebra_device_box",
+  "per_class": {
+   "zebra_device_box": 12
+  },
+  "tp": 12,
+  "fp": 0,
+  "fn": 0,
+  "foreign_expected": 10,
+  "foreign_count": 10,
+  "foreign_per_class": {
+   "zebra_device_box": 10,
+   "biopron_box": 2
+  }
+ },
+ {
+  "img": "img_10",
+  "product": "zebra_device_box",
+  "gt": 11,
+  "count": 11,
+  "raw_dets": 11,
+  "pred_product": "zebra_device_box",
+  "per_class": {
+   "zebra_device_box": 11
+  },
+  "tp": 11,
+  "fp": 0,
+  "fn": 0,
+  "foreign_expected": 9,
+  "foreign_count": 9,
+  "foreign_per_class": {
+   "zebra_device_box": 9,
+   "biopron_box": 2
+  }
+ }
+]

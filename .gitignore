@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+kaggle/logs/
+kaggle/autolabel/out/
+kaggle/dataset/
+kaggle/code_ds/
+Images/
+data/review/
+*.zip
+*.docx

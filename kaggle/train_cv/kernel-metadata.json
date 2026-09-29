@@ -1,0 +1,1 @@
+{"id": "morizin/carton-train-cv", "title": "carton-train-cv", "code_file": "train.py", "language": "python", "kernel_type": "script", "is_private": true, "enable_gpu": true, "enable_internet": true, "machine_shape": "NvidiaTeslaT4", "dataset_sources": ["morizin/carton-proj"], "competition_sources": [], "kernel_sources": []}

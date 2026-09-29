@@ -1,0 +1,613 @@
+{
+ "facebook/sam2.1-hiera-large": [
+  {
+   "img": "img_01",
+   "gt": 30,
+   "count": 31,
+   "yolo_count": 30,
+   "review": false,
+   "product": "biopron_box",
+   "per_class": {
+    "biopron_box": 31
+   },
+   "sec": 6.495
+  },
+  {
+   "img": "img_02",
+   "gt": 20,
+   "count": 19,
+   "yolo_count": 20,
+   "review": false,
+   "product": "vovemac_plus_box",
+   "per_class": {
+    "vovemac_plus_box": 19
+   },
+   "sec": 6.454
+  },
+  {
+   "img": "img_03",
+   "gt": 30,
+   "count": 30,
+   "yolo_count": 30,
+   "review": false,
+   "product": "biopron_box",
+   "per_class": {
+    "biopron_box": 30
+   },
+   "sec": 6.766
+  },
+  {
+   "img": "img_04",
+   "gt": 20,
+   "count": 15,
+   "yolo_count": 20,
+   "review": true,
+   "product": "zebra_ribbon_green_blister",
+   "per_class": {
+    "zebra_ribbon_green_blister": 15
+   },
+   "sec": 6.269
+  },
+  {
+   "img": "img_05",
+   "gt": 21,
+   "count": 17,
+   "yolo_count": 21,
+   "review": true,
+   "product": "ribbon_roll_blue",
+   "per_class": {
+    "ribbon_roll_blue": 17
+   },
+   "sec": 7.289
+  },
+  {
+   "img": "img_06",
+   "gt": 16,
+   "count": 15,
+   "yolo_count": 16,
+   "review": false,
+   "product": "label_roll_white",
+   "per_class": {
+    "label_roll_white": 15
+   },
+   "sec": 7.123
+  },
+  {
+   "img": "img_07",
+   "gt": 12,
+   "count": 15,
+   "yolo_count": 12,
+   "review": true,
+   "product": "honeywell_device_box",
+   "per_class": {
+    "honeywell_device_box": 15
+   },
+   "sec": 6.791
+  },
+  {
+   "img": "img_08",
+   "gt": 10,
+   "count": 10,
+   "yolo_count": 10,
+   "review": false,
+   "product": "zebra_ribbon_yellow",
+   "per_class": {
+    "zebra_ribbon_yellow": 10
+   },
+   "sec": 6.503
+  },
+  {
+   "img": "img_09",
+   "gt": 12,
+   "count": 13,
+   "yolo_count": 12,
+   "review": false,
+   "product": "zebra_device_box",
+   "per_class": {
+    "zebra_device_box": 13
+   },
+   "sec": 7.016
+  },
+  {
+   "img": "img_10",
+   "gt": 11,
+   "count": 11,
+   "yolo_count": 11,
+   "review": false,
+   "product": "zebra_device_box",
+   "per_class": {
+    "zebra_device_box": 11
+   },
+   "sec": 7.206
+  }
+ ],
+ "facebook/sam2.1-hiera-base-plus": [
+  {
+   "img": "img_01",
+   "gt": 30,
+   "count": 30,
+   "yolo_count": 30,
+   "review": false,
+   "product": "biopron_box",
+   "per_class": {
+    "biopron_box": 30
+   },
+   "sec": 7.169
+  },
+  {
+   "img": "img_02",
+   "gt": 20,
+   "count": 20,
+   "yolo_count": 20,
+   "review": false,
+   "product": "vovemac_plus_box",
+   "per_class": {
+    "vovemac_plus_box": 20
+   },
+   "sec": 6.677
+  },
+  {
+   "img": "img_03",
+   "gt": 30,
+   "count": 30,
+   "yolo_count": 30,
+   "review": false,
+   "product": "biopron_box",
+   "per_class": {
+    "biopron_box": 30
+   },
+   "sec": 6.968
+  },
+  {
+   "img": "img_04",
+   "gt": 20,
+   "count": 13,
+   "yolo_count": 20,
+   "review": true,
+   "product": "zebra_ribbon_green_blister",
+   "per_class": {
+    "zebra_ribbon_green_blister": 13
+   },
+   "sec": 6.296
+  },
+  {
+   "img": "img_05",
+   "gt": 21,
+   "count": 20,
+   "yolo_count": 21,
+   "review": false,
+   "product": "ribbon_roll_blue",
+   "per_class": {
+    "ribbon_roll_blue": 20
+   },
+   "sec": 6.608
+  },
+  {
+   "img": "img_06",
+   "gt": 16,
+   "count": 15,
+   "yolo_count": 16,
+   "review": false,
+   "product": "label_roll_white",
+   "per_class": {
+    "label_roll_white": 15
+   },
+   "sec": 6.653
+  },
+  {
+   "img": "img_07",
+   "gt": 12,
+   "count": 15,
+   "yolo_count": 12,
+   "review": true,
+   "product": "honeywell_device_box",
+   "per_class": {
+    "honeywell_device_box": 15
+   },
+   "sec": 6.46
+  },
+  {
+   "img": "img_08",
+   "gt": 10,
+   "count": 4,
+   "yolo_count": 10,
+   "review": true,
+   "product": "zebra_ribbon_yellow",
+   "per_class": {
+    "zebra_ribbon_yellow": 4
+   },
+   "sec": 5.824
+  },
+  {
+   "img": "img_09",
+   "gt": 12,
+   "count": 12,
+   "yolo_count": 12,
+   "review": false,
+   "product": "zebra_device_box",
+   "per_class": {
+    "zebra_device_box": 12
+   },
+   "sec": 6.334
+  },
+  {
+   "img": "img_10",
+   "gt": 11,
+   "count": 12,
+   "yolo_count": 11,
+   "review": false,
+   "product": "zebra_device_box",
+   "per_class": {
+    "zebra_device_box": 12
+   },
+   "sec": 6.55
+  }
+ ],
+ "facebook/sam2.1-hiera-small": [
+  {
+   "img": "img_01",
+   "gt": 30,
+   "count": 30,
+   "yolo_count": 30,
+   "review": false,
+   "product": "biopron_box",
+   "per_class": {
+    "biopron_box": 30
+   },
+   "sec": 6.511
+  },
+  {
+   "img": "img_02",
+   "gt": 20,
+   "count": 17,
+   "yolo_count": 20,
+   "review": true,
+   "product": "vovemac_plus_box",
+   "per_class": {
+    "vovemac_plus_box": 17
+   },
+   "sec": 6.189
+  },
+  {
+   "img": "img_03",
+   "gt": 30,
+   "count": 30,
+   "yolo_count": 30,
+   "review": false,
+   "product": "biopron_box",
+   "per_class": {
+    "biopron_box": 30
+   },
+   "sec": 6.703
+  },
+  {
+   "img": "img_04",
+   "gt": 20,
+   "count": 6,
+   "yolo_count": 20,
+   "review": true,
+   "product": "zebra_ribbon_green_blister",
+   "per_class": {
+    "zebra_ribbon_green_blister": 6
+   },
+   "sec": 6.243
+  },
+  {
+   "img": "img_05",
+   "gt": 21,
+   "count": 23,
+   "yolo_count": 21,
+   "review": true,
+   "product": "ribbon_roll_blue",
+   "per_class": {
+    "ribbon_roll_blue": 23
+   },
+   "sec": 6.898
+  },
+  {
+   "img": "img_06",
+   "gt": 16,
+   "count": 14,
+   "yolo_count": 16,
+   "review": true,
+   "product": "label_roll_white",
+   "per_class": {
+    "label_roll_white": 14,
+    "honeywell_device_box": 1
+   },
+   "sec": 6.996
+  },
+  {
+   "img": "img_07",
+   "gt": 12,
+   "count": 17,
+   "yolo_count": 12,
+   "review": true,
+   "product": "honeywell_device_box",
+   "per_class": {
+    "honeywell_device_box": 17
+   },
+   "sec": 6.615
+  },
+  {
+   "img": "img_08",
+   "gt": 10,
+   "count": 2,
+   "yolo_count": 10,
+   "review": true,
+   "product": "zebra_ribbon_yellow",
+   "per_class": {
+    "zebra_ribbon_yellow": 2
+   },
+   "sec": 5.917
+  },
+  {
+   "img": "img_09",
+   "gt": 12,
+   "count": 13,
+   "yolo_count": 12,
+   "review": false,
+   "product": "zebra_device_box",
+   "per_class": {
+    "zebra_device_box": 13
+   },
+   "sec": 6.283
+  },
+  {
+   "img": "img_10",
+   "gt": 11,
+   "count": 11,
+   "yolo_count": 11,
+   "review": false,
+   "product": "zebra_device_box",
+   "per_class": {
+    "zebra_device_box": 11
+   },
+   "sec": 6.117
+  }
+ ],
+ "facebook/sam2.1-hiera-tiny": [
+  {
+   "img": "img_01",
+   "gt": 30,
+   "count": 30,
+   "yolo_count": 30,
+   "review": false,
+   "product": "biopron_box",
+   "per_class": {
+    "biopron_box": 30
+   },
+   "sec": 6.37
+  },
+  {
+   "img": "img_02",
+   "gt": 20,
+   "count": 13,
+   "yolo_count": 20,
+   "review": true,
+   "product": "vovemac_plus_box",
+   "per_class": {
+    "vovemac_plus_box": 13
+   },
+   "sec": 5.82
+  },
+  {
+   "img": "img_03",
+   "gt": 30,
+   "count": 30,
+   "yolo_count": 30,
+   "review": false,
+   "product": "biopron_box",
+   "per_class": {
+    "biopron_box": 30
+   },
+   "sec": 6.305
+  },
+  {
+   "img": "img_04",
+   "gt": 20,
+   "count": 8,
+   "yolo_count": 20,
+   "review": true,
+   "product": "zebra_ribbon_green_blister",
+   "per_class": {
+    "zebra_ribbon_green_blister": 8
+   },
+   "sec": 5.875
+  },
+  {
+   "img": "img_05",
+   "gt": 21,
+   "count": 21,
+   "yolo_count": 21,
+   "review": false,
+   "product": "ribbon_roll_blue",
+   "per_class": {
+    "ribbon_roll_blue": 21
+   },
+   "sec": 6.497
+  },
+  {
+   "img": "img_06",
+   "gt": 16,
+   "count": 15,
+   "yolo_count": 16,
+   "review": false,
+   "product": "label_roll_white",
+   "per_class": {
+    "label_roll_white": 15
+   },
+   "sec": 6.533
+  },
+  {
+   "img": "img_07",
+   "gt": 12,
+   "count": 17,
+   "yolo_count": 12,
+   "review": true,
+   "product": "honeywell_device_box",
+   "per_class": {
+    "honeywell_device_box": 17
+   },
+   "sec": 6.307
+  },
+  {
+   "img": "img_08",
+   "gt": 10,
+   "count": 4,
+   "yolo_count": 10,
+   "review": true,
+   "product": "zebra_ribbon_yellow",
+   "per_class": {
+    "zebra_ribbon_yellow": 4
+   },
+   "sec": 5.83
+  },
+  {
+   "img": "img_09",
+   "gt": 12,
+   "count": 12,
+   "yolo_count": 12,
+   "review": false,
+   "product": "zebra_device_box",
+   "per_class": {
+    "zebra_device_box": 12
+   },
+   "sec": 6.354
+  },
+  {
+   "img": "img_10",
+   "gt": 11,
+   "count": 11,
+   "yolo_count": 11,
+   "review": false,
+   "product": "zebra_device_box",
+   "per_class": {
+    "zebra_device_box": 11
+   },
+   "sec": 6.208
+  }
+ ],
+ "yolo": [
+  {
+   "img": "img_01",
+   "gt": 30,
+   "count": 30,
+   "yolo_count": -1,
+   "review": false,
+   "product": "biopron_box",
+   "per_class": {
+    "biopron_box": 30
+   },
+   "sec": 0.258
+  },
+  {
+   "img": "img_02",
+   "gt": 20,
+   "count": 20,
+   "yolo_count": -1,
+   "review": false,
+   "product": "vovemac_plus_box",
+   "per_class": {
+    "vovemac_plus_box": 20
+   },
+   "sec": 0.21
+  },
+  {
+   "img": "img_03",
+   "gt": 30,
+   "count": 30,
+   "yolo_count": -1,
+   "review": false,
+   "product": "biopron_box",
+   "per_class": {
+    "biopron_box": 30
+   },
+   "sec": 0.293
+  },
+  {
+   "img": "img_04",
+   "gt": 20,
+   "count": 20,
+   "yolo_count": -1,
+   "review": false,
+   "product": "zebra_ribbon_green_blister",
+   "per_class": {
+    "zebra_ribbon_green_blister": 20
+   },
+   "sec": 0.227
+  },
+  {
+   "img": "img_05",
+   "gt": 21,
+   "count": 21,
+   "yolo_count": -1,
+   "review": false,
+   "product": "ribbon_roll_blue",
+   "per_class": {
+    "ribbon_roll_blue": 21
+   },
+   "sec": 0.222
+  },
+  {
+   "img": "img_06",
+   "gt": 16,
+   "count": 16,
+   "yolo_count": -1,
+   "review": false,
+   "product": "label_roll_white",
+   "per_class": {
+    "label_roll_white": 16
+   },
+   "sec": 0.192
+  },
+  {
+   "img": "img_07",
+   "gt": 12,
+   "count": 12,
+   "yolo_count": -1,
+   "review": false,
+   "product": "honeywell_device_box",
+   "per_class": {
+    "honeywell_device_box": 12
+   },
+   "sec": 0.172
+  },
+  {
+   "img": "img_08",
+   "gt": 10,
+   "count": 10,
+   "yolo_count": -1,
+   "review": false,
+   "product": "zebra_ribbon_yellow",
+   "per_class": {
+    "zebra_ribbon_yellow": 10
+   },
+   "sec": 0.16
+  },
+  {
+   "img": "img_09",
+   "gt": 12,
+   "count": 12,
+   "yolo_count": -1,
+   "review": false,
+   "product": "zebra_device_box",
+   "per_class": {
+    "zebra_device_box": 12
+   },
+   "sec": 0.172
+  },
+  {
+   "img": "img_10",
+   "gt": 11,
+   "count": 11,
+   "yolo_count": -1,
+   "review": false,
+   "product": "zebra_device_box",
+   "per_class": {
+    "zebra_device_box": 11
+   },
+   "sec": 0.166
+  }
+ ]
+}

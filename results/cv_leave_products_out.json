@@ -1,0 +1,453 @@
+[
+ {
+  "img": "img_01",
+  "product": "biopron_box",
+  "gt": 30,
+  "count": 30,
+  "raw_dets": 30,
+  "pred_product": "vovemac_plus_box",
+  "per_class": {
+   "vovemac_plus_box": 30
+  },
+  "tp": 30,
+  "fp": 0,
+  "fn": 0,
+  "foreign_expected": 28,
+  "foreign_count": 30,
+  "foreign_per_class": {
+   "vovemac_plus_box": 30
+  },
+  "fold": 0,
+  "gallery": "unregistered"
+ },
+ {
+  "img": "img_03",
+  "product": "biopron_box",
+  "gt": 30,
+  "count": 30,
+  "raw_dets": 30,
+  "pred_product": "vovemac_plus_box",
+  "per_class": {
+   "vovemac_plus_box": 30
+  },
+  "tp": 30,
+  "fp": 0,
+  "fn": 0,
+  "foreign_expected": 28,
+  "foreign_count": 30,
+  "foreign_per_class": {
+   "vovemac_plus_box": 30
+  },
+  "fold": 0,
+  "gallery": "unregistered"
+ },
+ {
+  "img": "img_05",
+  "product": "ribbon_roll_blue",
+  "gt": 21,
+  "count": 18,
+  "raw_dets": 18,
+  "pred_product": "label_roll_white",
+  "per_class": {
+   "label_roll_white": 18
+  },
+  "tp": 14,
+  "fp": 4,
+  "fn": 7,
+  "foreign_expected": 19,
+  "foreign_count": 17,
+  "foreign_per_class": {
+   "vovemac_plus_box": 2,
+   "label_roll_white": 17
+  },
+  "fold": 0,
+  "gallery": "unregistered"
+ },
+ {
+  "img": "img_01",
+  "product": "biopron_box",
+  "gt": 30,
+  "count": 30,
+  "raw_dets": 30,
+  "pred_product": "biopron_box",
+  "per_class": {
+   "biopron_box": 30
+  },
+  "tp": 30,
+  "fp": 0,
+  "fn": 0,
+  "foreign_expected": 28,
+  "foreign_count": 28,
+  "foreign_per_class": {
+   "biopron_box": 28,
+   "vovemac_plus_box": 2
+  },
+  "fold": 0,
+  "gallery": "registered"
+ },
+ {
+  "img": "img_03",
+  "product": "biopron_box",
+  "gt": 30,
+  "count": 30,
+  "raw_dets": 30,
+  "pred_product": "biopron_box",
+  "per_class": {
+   "biopron_box": 30
+  },
+  "tp": 30,
+  "fp": 0,
+  "fn": 0,
+  "foreign_expected": 28,
+  "foreign_count": 29,
+  "foreign_per_class": {
+   "biopron_box": 29,
+   "vovemac_plus_box": 1
+  },
+  "fold": 0,
+  "gallery": "registered"
+ },
+ {
+  "img": "img_05",
+  "product": "ribbon_roll_blue",
+  "gt": 21,
+  "count": 18,
+  "raw_dets": 18,
+  "pred_product": "ribbon_roll_blue",
+  "per_class": {
+   "ribbon_roll_blue": 18
+  },
+  "tp": 14,
+  "fp": 4,
+  "fn": 7,
+  "foreign_expected": 19,
+  "foreign_count": 17,
+  "foreign_per_class": {
+   "biopron_box": 2,
+   "ribbon_roll_blue": 17
+  },
+  "fold": 0,
+  "gallery": "registered"
+ },
+ {
+  "img": "img_02",
+  "product": "vovemac_plus_box",
+  "gt": 20,
+  "count": 16,
+  "raw_dets": 17,
+  "pred_product": "biopron_box",
+  "per_class": {
+   "biopron_box": 16,
+   "zebra_ribbon_green_blister": 1
+  },
+  "tp": 16,
+  "fp": 0,
+  "fn": 4,
+  "foreign_expected": 18,
+  "foreign_count": 15,
+  "foreign_per_class": {
+   "biopron_box": 15,
+   "zebra_ribbon_green_blister": 1
+  },
+  "fold": 1,
+  "gallery": "unregistered"
+ },
+ {
+  "img": "img_06",
+  "product": "label_roll_white",
+  "gt": 16,
+  "count": 17,
+  "raw_dets": 17,
+  "pred_product": "ribbon_roll_blue",
+  "per_class": {
+   "ribbon_roll_blue": 17
+  },
+  "tp": 16,
+  "fp": 1,
+  "fn": 0,
+  "foreign_expected": 14,
+  "foreign_count": 15,
+  "foreign_per_class": {
+   "biopron_box": 2,
+   "ribbon_roll_blue": 15
+  },
+  "fold": 1,
+  "gallery": "unregistered"
+ },
+ {
+  "img": "img_02",
+  "product": "vovemac_plus_box",
+  "gt": 20,
+  "count": 17,
+  "raw_dets": 17,
+  "pred_product": "vovemac_plus_box",
+  "per_class": {
+   "vovemac_plus_box": 17
+  },
+  "tp": 17,
+  "fp": 0,
+  "fn": 3,
+  "foreign_expected": 18,
+  "foreign_count": 14,
+  "foreign_per_class": {
+   "biopron_box": 2,
+   "vovemac_plus_box": 14
+  },
+  "fold": 1,
+  "gallery": "registered"
+ },
+ {
+  "img": "img_06",
+  "product": "label_roll_white",
+  "gt": 16,
+  "count": 17,
+  "raw_dets": 17,
+  "pred_product": "label_roll_white",
+  "per_class": {
+   "label_roll_white": 17
+  },
+  "tp": 16,
+  "fp": 1,
+  "fn": 0,
+  "foreign_expected": 14,
+  "foreign_count": 15,
+  "foreign_per_class": {
+   "biopron_box": 2,
+   "label_roll_white": 15
+  },
+  "fold": 1,
+  "gallery": "registered"
+ },
+ {
+  "img": "img_04",
+  "product": "zebra_ribbon_green_blister",
+  "gt": 20,
+  "count": 13,
+  "raw_dets": 15,
+  "pred_product": "zebra_ribbon_yellow",
+  "per_class": {
+   "zebra_ribbon_yellow": 13,
+   "ribbon_roll_blue": 2
+  },
+  "tp": 10,
+  "fp": 3,
+  "fn": 10,
+  "foreign_expected": 18,
+  "foreign_count": 12,
+  "foreign_per_class": {
+   "biopron_box": 2,
+   "zebra_ribbon_yellow": 12,
+   "ribbon_roll_blue": 1
+  },
+  "fold": 2,
+  "gallery": "unregistered"
+ },
+ {
+  "img": "img_07",
+  "product": "honeywell_device_box",
+  "gt": 12,
+  "count": 11,
+  "raw_dets": 11,
+  "pred_product": "zebra_device_box",
+  "per_class": {
+   "zebra_device_box": 11
+  },
+  "tp": 11,
+  "fp": 0,
+  "fn": 1,
+  "foreign_expected": 10,
+  "foreign_count": 9,
+  "foreign_per_class": {
+   "zebra_device_box": 9,
+   "biopron_box": 2
+  },
+  "fold": 2,
+  "gallery": "unregistered"
+ },
+ {
+  "img": "img_04",
+  "product": "zebra_ribbon_green_blister",
+  "gt": 20,
+  "count": 15,
+  "raw_dets": 15,
+  "pred_product": "zebra_ribbon_green_blister",
+  "per_class": {
+   "zebra_ribbon_green_blister": 15
+  },
+  "tp": 11,
+  "fp": 4,
+  "fn": 9,
+  "foreign_expected": 18,
+  "foreign_count": 13,
+  "foreign_per_class": {
+   "biopron_box": 2,
+   "zebra_ribbon_green_blister": 13
+  },
+  "fold": 2,
+  "gallery": "registered"
+ },
+ {
+  "img": "img_07",
+  "product": "honeywell_device_box",
+  "gt": 12,
+  "count": 11,
+  "raw_dets": 11,
+  "pred_product": "honeywell_device_box",
+  "per_class": {
+   "honeywell_device_box": 11
+  },
+  "tp": 11,
+  "fp": 0,
+  "fn": 1,
+  "foreign_expected": 10,
+  "foreign_count": 9,
+  "foreign_per_class": {
+   "honeywell_device_box": 9,
+   "biopron_box": 2
+  },
+  "fold": 2,
+  "gallery": "registered"
+ },
+ {
+  "img": "img_08",
+  "product": "zebra_ribbon_yellow",
+  "gt": 10,
+  "count": 21,
+  "raw_dets": 22,
+  "pred_product": "zebra_ribbon_green_blister",
+  "per_class": {
+   "zebra_ribbon_green_blister": 21,
+   "honeywell_device_box": 1
+  },
+  "tp": 2,
+  "fp": 19,
+  "fn": 8,
+  "foreign_expected": 8,
+  "foreign_count": 21,
+  "foreign_per_class": {
+   "biopron_box": 2,
+   "zebra_ribbon_green_blister": 21,
+   "honeywell_device_box": 1,
+   "ribbon_roll_blue": 1
+  },
+  "fold": 3,
+  "gallery": "unregistered"
+ },
+ {
+  "img": "img_09",
+  "product": "zebra_device_box",
+  "gt": 12,
+  "count": 14,
+  "raw_dets": 14,
+  "pred_product": "honeywell_device_box",
+  "per_class": {
+   "honeywell_device_box": 14
+  },
+  "tp": 12,
+  "fp": 2,
+  "fn": 0,
+  "foreign_expected": 10,
+  "foreign_count": 12,
+  "foreign_per_class": {
+   "biopron_box": 1,
+   "honeywell_device_box": 12,
+   "vovemac_plus_box": 1
+  },
+  "fold": 3,
+  "gallery": "unregistered"
+ },
+ {
+  "img": "img_10",
+  "product": "zebra_device_box",
+  "gt": 11,
+  "count": 11,
+  "raw_dets": 11,
+  "pred_product": "honeywell_device_box",
+  "per_class": {
+   "honeywell_device_box": 11
+  },
+  "tp": 11,
+  "fp": 0,
+  "fn": 0,
+  "foreign_expected": 9,
+  "foreign_count": 9,
+  "foreign_per_class": {
+   "biopron_box": 2,
+   "honeywell_device_box": 9
+  },
+  "fold": 3,
+  "gallery": "unregistered"
+ },
+ {
+  "img": "img_08",
+  "product": "zebra_ribbon_yellow",
+  "gt": 10,
+  "count": 20,
+  "raw_dets": 22,
+  "pred_product": "zebra_ribbon_yellow",
+  "per_class": {
+   "zebra_ribbon_yellow": 20,
+   "zebra_ribbon_green_blister": 1,
+   "zebra_device_box": 1
+  },
+  "tp": 2,
+  "fp": 18,
+  "fn": 8,
+  "foreign_expected": 8,
+  "foreign_count": 21,
+  "foreign_per_class": {
+   "biopron_box": 2,
+   "zebra_ribbon_yellow": 21,
+   "zebra_ribbon_green_blister": 1,
+   "zebra_device_box": 1
+  },
+  "fold": 3,
+  "gallery": "registered"
+ },
+ {
+  "img": "img_09",
+  "product": "zebra_device_box",
+  "gt": 12,
+  "count": 13,
+  "raw_dets": 14,
+  "pred_product": "zebra_device_box",
+  "per_class": {
+   "zebra_device_box": 13,
+   "honeywell_device_box": 1
+  },
+  "tp": 12,
+  "fp": 1,
+  "fn": 0,
+  "foreign_expected": 10,
+  "foreign_count": 11,
+  "foreign_per_class": {
+   "biopron_box": 2,
+   "zebra_device_box": 11,
+   "vovemac_plus_box": 1
+  },
+  "fold": 3,
+  "gallery": "registered"
+ },
+ {
+  "img": "img_10",
+  "product": "zebra_device_box",
+  "gt": 11,
+  "count": 11,
+  "raw_dets": 11,
+  "pred_product": "zebra_device_box",
+  "per_class": {
+   "zebra_device_box": 11
+  },
+  "tp": 11,
+  "fp": 0,
+  "fn": 0,
+  "foreign_expected": 9,
+  "foreign_count": 9,
+  "foreign_per_class": {
+   "biopron_box": 2,
+   "zebra_device_box": 9
+  },
+  "fold": 3,
+  "gallery": "registered"
+ }
+]
